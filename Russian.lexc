@@ -47,7 +47,7 @@ LEXICON N1FemAnim
 +N+Pl+Inst:^ami #;
 +N+Pl+Prep:^ah #;
 
-LEXICON N2NeutInan					
+LEXICON N1FemInan				
 +N+Sg+Nom:^a #;
 +N+Sg+Gen:^y #;
 +N+Sg+Dat:^e #;
