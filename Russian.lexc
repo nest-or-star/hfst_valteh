@@ -41,9 +41,9 @@ LEXICON N1FemAnim
 +N+Sg+Inst:^oj #;
 +N+Sg+Prep:^e #;				
 +N+Pl+Nom:^y #;
-+N+Pl+Gen:^ #;
++N+Pl+Gen:^Ø #;
 +N+Pl+Dat:^am #;
-+N+Pl+Acc:^ #;
++N+Pl+Acc:^Ø #;
 +N+Pl+Inst:^ami #;
 +N+Pl+Prep:^ah #;
 
@@ -55,7 +55,7 @@ LEXICON N1FemInan
 +N+Sg+Inst:^oj #;
 +N+Sg+Prep:^e #;				
 +N+Pl+Nom:^y #;
-+N+Pl+Gen:^ #;
++N+Pl+Gen:^Ø #;
 +N+Pl+Dat:^am #;
 +N+Pl+Acc:^y #;
 +N+Pl+Inst:^ami #;
@@ -69,14 +69,14 @@ LEXICON N2NeutInan
 +N+Sg+Inst:^om #;
 +N+Sg+Prep:^e #;				
 +N+Pl+Nom:^a #;
-+N+Pl+Gen:^ #;
++N+Pl+Gen:^Ø #;
 +N+Pl+Dat:^am #;
 +N+Pl+Acc:^a #;
 +N+Pl+Inst:^ami #;
 +N+Pl+Prep:^ah #;
 
 LEXICON N2MascAnim					
-+N+Sg+Nom:^ #;
++N+Sg+Nom:^Ø #;
 +N+Sg+Gen:^a #;
 +N+Sg+Dat:^u #;
 +N+Sg+Acc:^a #;
