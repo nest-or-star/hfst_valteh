@@ -21,10 +21,10 @@ dolina N1FemInan ;
 tosk N1FemInan ;
 mât N1FemInan ;
 
-seno N2NeutInan ;
-sito N2NeutInan ;
-vino N2NeutInan ;
-pivo N2NeutInan ;
+sen N2NeutInan ;
+sit N2NeutInan ;
+vin N2NeutInan ;
+piv N2NeutInan ;
 
 kot N2MascAnim ;
 robot N2MascAnim ;
