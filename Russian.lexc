@@ -1,0 +1,90 @@
+Multichar_Symbols +N +Sg +Pl +Nom +Gen +Dat +Acc +Inst +Prep
+
+LEXICON Root						
+Noun ;
+
+LEXICON Noun
+
+sobak N1FemAnim ;
+ryb N1FemAnim ;
+ptic N1FemAnim ;
+sinic N1FemAnim ;
+korov N1FemAnim ;
+krysa N1FemAnim ;
+zmej N1FemAnim ;
+devočk N1FemAnim ;
+
+dorog N1FemInan ;
+rek N1FemInan ;
+golov N1FemInan ;
+dolina N1FemInan ;
+tosk N1FemInan ;
+mât N1FemInan ;
+
+seno N2NeutInan ;
+sito N2NeutInan ;
+vino N2NeutInan ;
+pivo N2NeutInan ;
+
+kot N2MascAnim ;
+robot N2MascAnim ;
+mal'čik N2MascAnim ;
+lingvist N2MascAnim ;
+olen' N2MascAnim ;
+medved' N2MascAnim ;
+
+LEXICON N1FemAnim					
++N+Sg+Nom:^a #;
++N+Sg+Gen:^y #;
++N+Sg+Dat:^e #;
++N+Sg+Acc:^u #;
++N+Sg+Inst:^oj #;
++N+Sg+Prep:^e #;				
++N+Pl+Nom:^y #;
++N+Pl+Gen:^ #;
++N+Pl+Dat:^am #;
++N+Pl+Acc:^ #;
++N+Pl+Inst:^ami #;
++N+Pl+Prep:^ah #;
+
+LEXICON N2NeutInan					
++N+Sg+Nom:^a #;
++N+Sg+Gen:^y #;
++N+Sg+Dat:^e #;
++N+Sg+Acc:^u #;
++N+Sg+Inst:^oj #;
++N+Sg+Prep:^e #;				
++N+Pl+Nom:^y #;
++N+Pl+Gen:^ #;
++N+Pl+Dat:^am #;
++N+Pl+Acc:^y #;
++N+Pl+Inst:^ami #;
++N+Pl+Prep:^ah #;
+
+LEXICON N2NeutInan					
++N+Sg+Nom:^o #;
++N+Sg+Gen:^a #;
++N+Sg+Dat:^u #;
++N+Sg+Acc:^o #;
++N+Sg+Inst:^om #;
++N+Sg+Prep:^e #;				
++N+Pl+Nom:^a #;
++N+Pl+Gen:^ #;
++N+Pl+Dat:^am #;
++N+Pl+Acc:^a #;
++N+Pl+Inst:^ami #;
++N+Pl+Prep:^ah #;
+
+LEXICON N2MascAnim					
++N+Sg+Nom:^ #;
++N+Sg+Gen:^a #;
++N+Sg+Dat:^u #;
++N+Sg+Acc:^a #;
++N+Sg+Inst:^om #;
++N+Sg+Prep:^e #;				
++N+Pl+Nom:^y #;
++N+Pl+Gen:^ov #;
++N+Pl+Dat:^am #;
++N+Pl+Acc:^ov #;
++N+Pl+Inst:^ami #;
++N+Pl+Prep:^ah #;
