@@ -8,26 +8,21 @@ LEXICON Noun
 sobak N1FemAnim ;
 ryb N1FemAnim ;
 ptic N1FemAnim ;
-sinic N1FemAnim ;
 korov N1FemAnim ;
-krysa N1FemAnim ;
 zmej N1FemAnim ;
 devočk N1FemAnim ;
 
 dorog N1FemInan ;
 rek N1FemInan ;
 golov N1FemInan ;
-dolina N1FemInan ;
 tosk N1FemInan ;
 mât N1FemInan ;
 
 sen N2NeutInan ;
-sit N2NeutInan ;
 vin N2NeutInan ;
 piv N2NeutInan ;
 
 kot N2MascAnim ;
-robot N2MascAnim ;
 mal'čik N2MascAnim ;
 lingvist N2MascAnim ;
 olen' N2MascAnim ;
